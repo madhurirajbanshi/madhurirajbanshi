@@ -1,5 +1,6 @@
 <h1 align="left">About Me</h1>
-<h3 align="center">A dedicated .NET developer with a focus on building efficient and scalable applications. Committed to continuous growth and ready to take on challenges in software development, striving for excellence in every project to create meaningful and reliable software.</h3>
+<h3 align="center">A dedicated .NET developer with a focus on building efficient and scalable applications. Committed to continuous growth and ready to take on challenges in software development, striving for excellence in 
+every project to create meaningful and reliable software.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhurirajbanshi&label=Profile%20views&color=0e75b6&style=flat" alt="madhurirajbanshi" /> </p>
 
