@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhurirajbanshi&label=Profile%20views&color=0e75b6&style=flat" alt="madhurirajbanshi" /> </p>
 
-- 🔭 I’m currently working on [Red Cross System](https://github.com/madhurirajbanshi/RedCross_System)
 
 - 🌱 I’m currently learning **.NET**
 
